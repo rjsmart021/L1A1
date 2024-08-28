@@ -13,9 +13,8 @@ else:
 
 #Wear sunglasses!
 #Task 2: Your Mood Today Ask the user how they feel today.
- 
-input("How do you feel today")
-if "Happy":
+mood = input("How do you feel today")
+if mood == "happy":
     print("That's great to hear!")
 elif "sad":
     print("I hope your day gets better!")
