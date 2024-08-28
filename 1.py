@@ -43,7 +43,7 @@ print(my_sum)
  
  #Task 2: Bank Interest
  
-Principle= 10,000
+Principle= 10000
 Interest= 0.07
 Time= 1
 Simple = (Principle*Interest*Time)/100
