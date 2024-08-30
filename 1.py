@@ -26,9 +26,9 @@ else:
 #2.Python Naming Convention Practice
  #Task 1: Code Correction
 
-pi_value = 3.14
-user_age = 25
-user_location = "New York"
+PI_VALUE = 3.14
+USER_AGE = 25
+USER_LOCATION = "NEW YORK"
 MAXLIMIT = 1000
  
  #3. Arithmetic Operations in Daily
