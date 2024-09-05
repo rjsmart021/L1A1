@@ -35,12 +35,12 @@ MAXLIMIT = 1000
  #Task 1: Grocery Store Math
 
 bread = 3
-Pickle = 2.50
-Jelly = 2
+pickle = 2.50
+jelly = 2
 print("Your total will be")
-my_sum = bread + Pickle + Jelly
+my_sum = bread + pickle + jelly
 print(my_sum)
- 
+
  #Task 2: Bank Interest
  
 Principle= 10000
